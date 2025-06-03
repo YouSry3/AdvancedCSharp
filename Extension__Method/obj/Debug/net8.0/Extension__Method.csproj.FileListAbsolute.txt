@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Project\Extension__Method\obj\Debug\net8.0\Extension__Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Project\Extension__Method\obj\Debug\net8.0\Extension__Method.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Project\Extension__Method\obj\Debug\net8.0\Extension__Method.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Project\Extension__Method\obj\Debug\net8.0\Extension__Method.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Project\Extension__Method\bin\Debug\net8.0\Extension__Method.exe
+C:\Users\Lenovo\Desktop\Project\Extension__Method\bin\Debug\net8.0\Extension__Method.deps.json
+C:\Users\Lenovo\Desktop\Project\Extension__Method\bin\Debug\net8.0\Extension__Method.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Project\Extension__Method\bin\Debug\net8.0\Extension__Method.dll
+C:\Users\Lenovo\Desktop\Project\Extension__Method\bin\Debug\net8.0\Extension__Method.pdb
+C:\Users\Lenovo\Desktop\Project\Extension__Method\obj\Debug\net8.0\Extension__Method.dll
+C:\Users\Lenovo\Desktop\Project\Extension__Method\obj\Debug\net8.0\refint\Extension__Method.dll
+C:\Users\Lenovo\Desktop\Project\Extension__Method\obj\Debug\net8.0\Extension__Method.pdb
+C:\Users\Lenovo\Desktop\Project\Extension__Method\obj\Debug\net8.0\Extension__Method.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Project\Extension__Method\obj\Debug\net8.0\ref\Extension__Method.dll
