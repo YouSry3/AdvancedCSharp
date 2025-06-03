@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Project\\RecurionApplictions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9878D830-B98D-4621-A6B7-AEA0C07E0526}|RecurionApplictions.csproj|c:\\users\\lenovo\\desktop\\project\\recurionapplictions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878D830-B98D-4621-A6B7-AEA0C07E0526}|RecurionApplictions.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878D830-B98D-4621-A6B7-AEA0C07E0526}|RecurionApplictions.csproj|c:\\users\\lenovo\\desktop\\project\\recurionapplictions\\recursionnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878D830-B98D-4621-A6B7-AEA0C07E0526}|RecurionApplictions.csproj|solutionrelative:recursionnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecursionNumber.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Project\\RecurionApplictions\\RecursionNumber.cs",
+              "RelativeDocumentMoniker": "RecursionNumber.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Project\\RecurionApplictions\\RecursionNumber.cs",
+              "RelativeToolTip": "RecursionNumber.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:42:06.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Project\\RecurionApplictions\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Project\\RecurionApplictions\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:41:31.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

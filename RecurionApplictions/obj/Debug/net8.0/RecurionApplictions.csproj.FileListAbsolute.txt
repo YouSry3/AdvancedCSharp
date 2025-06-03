@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Project\RecurionApplictions\bin\Debug\net8.0\RecurionApplictions.exe
+C:\Users\Lenovo\Desktop\Project\RecurionApplictions\bin\Debug\net8.0\RecurionApplictions.deps.json
+C:\Users\Lenovo\Desktop\Project\RecurionApplictions\bin\Debug\net8.0\RecurionApplictions.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Project\RecurionApplictions\bin\Debug\net8.0\RecurionApplictions.dll
+C:\Users\Lenovo\Desktop\Project\RecurionApplictions\bin\Debug\net8.0\RecurionApplictions.pdb
+C:\Users\Lenovo\Desktop\Project\RecurionApplictions\obj\Debug\net8.0\RecurionApplictions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Project\RecurionApplictions\obj\Debug\net8.0\RecurionApplictions.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Project\RecurionApplictions\obj\Debug\net8.0\RecurionApplictions.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Project\RecurionApplictions\obj\Debug\net8.0\RecurionApplictions.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Project\RecurionApplictions\obj\Debug\net8.0\RecurionApplictions.dll
+C:\Users\Lenovo\Desktop\Project\RecurionApplictions\obj\Debug\net8.0\refint\RecurionApplictions.dll
+C:\Users\Lenovo\Desktop\Project\RecurionApplictions\obj\Debug\net8.0\RecurionApplictions.pdb
+C:\Users\Lenovo\Desktop\Project\RecurionApplictions\obj\Debug\net8.0\RecurionApplictions.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Project\RecurionApplictions\obj\Debug\net8.0\ref\RecurionApplictions.dll
